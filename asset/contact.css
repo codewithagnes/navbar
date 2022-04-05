@@ -1,0 +1,15 @@
+h1{
+    color: chocolate;
+    text-decoration: none;
+}
+
+a{
+    text-decoration: none;
+    color: cornflowerblue;
+}
+
+a:hover{
+    background-image: url(./263726.jpg);
+    color: crimson;
+    font-weight: bold;
+}
